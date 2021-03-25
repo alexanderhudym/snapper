@@ -19,7 +19,7 @@ PySocks==1.6.8
 pytest==3.6.0
 python-dateutil==2.7.3
 pytz==2018.4
-PyYAML==3.12
+PyYAML==5.4
 ray==0.4.0
 redis==2.10.6
 requests==2.18.4
