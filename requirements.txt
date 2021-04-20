@@ -14,7 +14,7 @@ numpy==1.14.3
 pandas==0.23.0
 pluggy==0.6.0
 psutil==5.4.5
-py==1.5.3
+py==1.10.0
 PySocks==1.6.8
 pytest==3.6.0
 python-dateutil==2.7.3
